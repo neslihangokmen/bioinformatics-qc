@@ -1,13 +1,7 @@
 
-# Bioinformatics data
 *.fasta
 *.vcf
 *.csv
 *.gz
-
-# Reports / temp files
-*.txt
-
-# System folders
-.config/
 sample_data/
+.config/
